@@ -7,6 +7,6 @@ The second script is used to parse the filename and content of the html files. T
 
 The output of both scripts is a list of dictionaries.
 
-The output was dumped in Postgres tables and then the final dataset which contains the metadata and the html parsed text was exported to a csv file, which is publicly available for download at: 
+The parsed xml dataset can be accessed here: https://drive.google.com/file/d/0B_4_ObSAWJETbFl5dERidnNfbnM/view?usp=sharing
 
 For more information about the dataset, you can send an email to rajat.bhateja@mail.mcgill.ca
